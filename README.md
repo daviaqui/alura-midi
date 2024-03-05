@@ -1,2 +1,2 @@
 # alura-midi
-Projetos com estudos da plataforma Alura
+Primeiro projeto em JavaScript com estudos da plataforma Alura
